@@ -66,7 +66,7 @@ Search for tasks based on:
   - Deadlines  
   - Project-level insights  
 
----
+
 
 ## 🧱 OOP Concepts Used
 
@@ -80,7 +80,7 @@ TaskFlow is structured entirely using core Object-Oriented Programming principle
 - **Composition & Aggregation**
 - **Modular design for scalability**
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -88,7 +88,7 @@ TaskFlow is structured entirely using core Object-Oriented Programming principle
 - Object-Oriented Design Principles  
 - File handling / Database (if used)  
 
----
+
 
 
 
